@@ -26,6 +26,6 @@ Actividades desarrolladas por cada miembro del equipo
 - Explique algo de git
 
 ## Recomendacion con las ramas
-    - Principal -> `main`
-    - Desarrollo -> `dev` -`develop`
-    - Una rama por cada tarea a realizar `ISS-1-1`, `ISS-10-3`
+- Principal -> `main`
+- Desarrollo -> `dev` -`develop`
+- Una rama por cada tarea a realizar `ISS-1-1`, `ISS-10-3`
