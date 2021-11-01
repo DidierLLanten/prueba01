@@ -24,3 +24,5 @@ Actividades desarrolladas por cada miembro del equipo
 
 - Cree la ***organizacion*** [equipo 0 ciclo grupo 8](https://github.com/DidierLLanten) y **añadi** a _tales_
 - Explique algo de git
+
+- Cambio en el repositorio
