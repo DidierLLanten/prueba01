@@ -26,3 +26,5 @@ Actividades desarrolladas por cada miembro del equipo
 - Explique algo de git
 
 - Cambio en el repositorio
+
+- Otro cambio desde el clone
