@@ -23,4 +23,4 @@ Actividades desarrolladas por cada miembro del equipo
 - Hoy inicialice el repo de git utilizando el comando `git init`
 
 - Cree la ***organizacion*** [equipo 0 ciclo grupo 8](https://github.com/DidierLLanten) y **añadi** a _tales_
-- Explique git
+- Explique algo de git
