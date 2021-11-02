@@ -1,6 +1,9 @@
-# Front Test
+# Creando mi primier Repositorio Remoto
 
-Este es el repositorio para la creacion del front con el que vamos a realizar todas las pruebas en el ciclo
+Escrito con [Markdown Notation](https://www.markdownguide.org/basic-syntax/)
+Este es el repositorio para el aprendizaje de la creacion 
+del mismo y sus diferentes comandos.
+
 
 ## Actividades 
 
