@@ -25,8 +25,14 @@ Actividades desarrolladas por cada miembro del equipo
 - Cree la ***organizacion*** [equipo 0 ciclo grupo 8](https://github.com/DidierLLanten) y **añadi** a _tales_
 - Explique algo de git
 
+
 ## Recomendacion con las ramas
 - Principal -> `main`
 - Desarrollo -> `dev` -`develop`
 - Una rama por cada tarea a realizar `ISS-1-1`, `ISS-10-3`
+
+- Cambio en el repositorio
+
+- Otro cambio desde el clone
+
 - Segunda prueba de Ramas `segundaRamaPrueba`
