@@ -37,3 +37,8 @@ Actividades desarrolladas por cada miembro del equipo
 
 - Segunda prueba de Ramas `segundaRamaPrueba`
 
+
+## Tercer intento de crear Rama
+- Estoy intentado hace rato mezclar las ramas pero me sale error
+- Reviso y borro el comentario
+- Permite asi realizar el merge
