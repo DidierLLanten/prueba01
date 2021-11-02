@@ -4,6 +4,7 @@ Escrito con [Markdown Notation](https://www.markdownguide.org/basic-syntax/)
 Este es el repositorio para el aprendizaje de la creacion 
 del mismo y sus diferentes comandos.
 - Modificando desde github.com la rama dev
+- Otra modificacion para probrar la sincronia
 
 
 ## Actividades 
